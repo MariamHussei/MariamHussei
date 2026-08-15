@@ -142,8 +142,8 @@ _January 2018 – December 2020_
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MariamHussei&amp;show_icons=true&amp;include_all_commits=true&amp;show=reviews,prs_merged&amp;hide_rank=true&amp;custom_title=GitHub%20Account%20Overview&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=D4A72C&amp;border_color=30363D" alt="GitHub statistics for MariamHussei">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=MariamHussei&amp;layout=compact&amp;langs_count=6&amp;custom_title=Languages%20Across%20Public%20Repositories&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=30363D" alt="Most used languages across public repositories">
+  <img width="auto" src="https://github-stats-extended.vercel.app/api?username=MariamHussei&amp;show_icons=true&amp;include_all_commits=true&amp;show=reviews,prs_merged&amp;hide_rank=true&amp;custom_title=GitHub%20Account%20Overview&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=D4A72C&amp;border_color=30363D" alt="GitHub statistics for MariamHussei">
+  <img width="auto" src="https://github-stats-extended.vercel.app/api/top-langs?username=MariamHussei&amp;layout=compact&amp;langs_count=6&amp;custom_title=Languages%20Across%20Public%20Repositories&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=30363D" alt="Most used languages across public repositories">
 </p>
 
 <p align="center"><sub>The language card reflects the composition of public repositories, not a measure of expertise.</sub></p>
@@ -151,7 +151,7 @@ _January 2018 – December 2020_
 ### Contribution Streak
 
 <p align="center">
-  <img src="./assets/streak.svg" width="100%" alt="GitHub contribution streak for MariamHussei">
+  <img src="./assets/streak.svg" width="auto" alt="GitHub contribution streak for MariamHussei">
 </p>
 
 ### Recent Contribution Activity
