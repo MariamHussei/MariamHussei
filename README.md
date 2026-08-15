@@ -4,7 +4,7 @@
 
 ### Technical Sales & Customer Solutions | AWS Certified Cloud Practitioner | Front-End Web Development
 
-Toronto-based technology and customer-solutions professional combining technical sales, CRM, cloud fundamentals, and practical front-end development. I bring customer discovery, product demonstration, relationship management, and business-development experience to technology-focused environments.
+Toronto-based technology and customer-solutions professional connecting customer needs with clear technical guidance and practical digital solutions.
 
 [GitHub Profile](https://github.com/MariamHussei)
 
@@ -12,17 +12,19 @@ Toronto-based technology and customer-solutions professional combining technical
 
 </div>
 
-## About
+## About Me
 
-I am based in **Toronto, Ontario, Canada**, with experience spanning technical sales, customer support, CRM, entrepreneurship, and business development. Alongside a **BSc Psychology** from the **University of Alberta** and an **AWS Certified Cloud Practitioner** credential, I am building practical front-end projects with HTML, CSS, and JavaScript.
-
-I am interested in customer-facing technology roles where clear communication, thoughtful discovery, and hands-on product knowledge create better solutions and stronger customer outcomes.
+- Based in **Toronto, Ontario, Canada**.
+- Earned a **BSc Psychology** from the **University of Alberta**.
+- **AWS Certified Cloud Practitioner** with foundational cloud knowledge.
+- Experienced across technical sales, CRM, customer support, entrepreneurship, and business development.
+- Building responsive front-end applications with **HTML, CSS, and JavaScript**.
 
 ## Core Strengths
 
 **Technical Communication** · **Customer Discovery** · **Consultative Selling** · **CRM & Pipeline Management** · **Front-End Development** · **Cloud Fundamentals**
 
-## Tech Stack
+## Skills & Tools
 
 ### Front-End
 
@@ -102,7 +104,7 @@ A reusable product-information component with synchronized focus and selection s
 
 _January 2025 – May 2026_
 
-- Managed prospecting, discovery, pricing, negotiation, and delivery for **50+ monthly orders**, closing approximately **15–20 new contracts per quarter**.
+- Prospected **40+ local businesses monthly**, closed approximately **15–20 new contracts per quarter**, and achieved approximately **85% close rate on qualified leads**.
 - Maintained approximately **70% client retention** and grew repeat business by approximately **25% in the first year**.
 
 ### Technical Sales Support Specialist — Apple
@@ -131,11 +133,17 @@ _January 2018 – December 2020_
 - **Women in Sales Cohort (WIS)** — September 2025
 - **Toastmasters Club member** — ongoing public-speaking and communication development
 
+## GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=MariamHussei&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;margin-h=6&amp;column=6" alt="GitHub achievements for MariamHussei"></a>
+</p>
+
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=MariamHussei&amp;show_icons=true&amp;include_all_commits=true&amp;show=reviews,prs_merged&amp;hide_rank=true&amp;custom_title=GitHub%20Account%20Overview&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=D4A72C&amp;border_color=30363D" alt="GitHub account statistics for MariamHussei"></a>
-  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=MariamHussei&amp;layout=compact&amp;langs_count=6&amp;custom_title=Languages%20Across%20Public%20Repositories&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=30363D" alt="Languages across the public repositories of MariamHussei"></a>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MariamHussei&amp;show_icons=true&amp;include_all_commits=true&amp;show=reviews,prs_merged&amp;hide_rank=true&amp;custom_title=GitHub%20Account%20Overview&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=D4A72C&amp;border_color=30363D" alt="GitHub statistics for MariamHussei">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=MariamHussei&amp;layout=compact&amp;langs_count=6&amp;custom_title=Languages%20Across%20Public%20Repositories&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=30363D" alt="Most used languages across public repositories">
 </p>
 
 <p align="center"><sub>The language card reflects the composition of public repositories, not a measure of expertise.</sub></p>
@@ -143,16 +151,16 @@ _January 2018 – December 2020_
 ### Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=MariamHussei&amp;theme=github-dark-blue&amp;hide_border=false" alt="GitHub contribution streak for MariamHussei"></a>
+  <img src="./assets/streak.svg" width="100%" alt="GitHub contribution streak for MariamHussei">
 </p>
 
 ### Recent Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MariamHussei&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=58A6FF&amp;point=D4A72C&amp;area=true&amp;area_color=1F6FEB&amp;border_color=30363D&amp;custom_title=Recent%20Contribution%20Activity" alt="Recent GitHub contribution activity for MariamHussei"></a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MariamHussei&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=58A6FF&amp;point=D4A72C&amp;area=true&amp;area_color=1F6FEB&amp;border_color=30363D&amp;custom_title=Recent%20Contribution%20Activity" width="100%" alt="Recent GitHub contribution activity for MariamHussei"></a>
 </p>
 
-## Connect
+## Let's Connect
 
 - **GitHub:** [github.com/MariamHussei](https://github.com/MariamHussei)
 - **Location:** Toronto, Ontario, Canada
