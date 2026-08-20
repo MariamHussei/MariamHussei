@@ -128,7 +128,7 @@ _January 2018 – December 2020_
 
 ## Education & Certification
 
-- **University of Alberta** — BSc Psychology
+- **BSc Psychology**
 - **AWS Certified Cloud Practitioner** — July 2024
 - **Women in Sales Cohort (WIS)** — September 2025
 - **Toastmasters Club member** — ongoing public-speaking and communication development
