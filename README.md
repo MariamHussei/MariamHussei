@@ -15,7 +15,7 @@ Toronto-based technology and customer-solutions professional connecting customer
 ## About Me
 
 - Based in **Toronto, Ontario, Canada**.
-- Earned a **BSc Psychology** from the **University of Alberta**.
+- 2.5 years **BSc Psychology** 
 - **AWS Certified Cloud Practitioner** with foundational cloud knowledge.
 - Experienced across technical sales, CRM, customer support, entrepreneurship, and business development.
 - Building responsive front-end applications with **HTML, CSS, and JavaScript**.
